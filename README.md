@@ -5,10 +5,10 @@
   <h3 align="center"><strong>Improving Batch Normalization with Test-Time Adaptation for Robust Object Detection in Self-Driving</strong></h3>
 
   <p align="center">
-      <a href="https://scholar.google.com/citations?user=s1m55YoAAAAJ" target='_blank'>Dacheng Liao</a>&nbsp;&nbsp;
-      <a href="https://scholar.google.com/citations?user=-j1j7TkAAAAJ" target='_blank'>Mengshi Qi</a><sup>*</sup>&nbsp;&nbsp;
-      <a href="https://scholar.google.com/citations?user=QDXADSEAAAAJ" target='_blank'>Liang Liu</a><sup>*</sup>&nbsp;&nbsp;
-      <a href="https://scholar.google.com/citations?user=YUKPVCoAAAAJ" target='_blank'>Huadong Ma</a><sup></sup>&nbsp;&nbsp;
+      <a href="" target='_blank'>Dacheng Liao</a>&nbsp;&nbsp;
+      <a href="" target='_blank'>Mengshi Qi</a><sup>*</sup>&nbsp;&nbsp;
+      <a href="" target='_blank'>Liang Liu</a><sup>*</sup>&nbsp;&nbsp;
+      <a href="" target='_blank'>Huadong Ma</a><sup></sup>&nbsp;&nbsp;
     <br>
     <small>State Key Laboratory of Networking and Switching Technology&nbsp;&nbsp;</small>
     <small>Beijing University of Posts and Telecommunications, China&nbsp;&nbsp;</small>
