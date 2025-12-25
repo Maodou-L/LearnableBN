@@ -34,7 +34,7 @@
 ## Updates
 
 
-
+## Model Zoo
 
 
 ## Installation
@@ -48,12 +48,6 @@
 
 ## Getting Started
 
-
-
-## Model Zoo
-
-
-## Citation
 
 
 
